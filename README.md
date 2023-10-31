@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoketsoMalatji
-- 👀 I’m interested in Programming
-- 🌱 I’m currently in an online Software Engineering program at ALX
-- 💞️ I’m looking to collaborate on any projects that might help me in being a Software Engineer
+- 👀 I’m interested in Programming, Engineering, Development, and Cybersecurity.
+- 🌱 I’m a Full Stack Software Engineer, with a specialization certificate in Back End Development from ALX.
+- 💞️ I’m looking to collaborate on any projects that might help me in being a Software Engineer.
 - 📫 How to reach me koketsosean209@gmail.com
 
 <!---
